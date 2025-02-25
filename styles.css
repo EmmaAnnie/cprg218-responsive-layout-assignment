@@ -74,6 +74,5 @@ footer{
 @media screen and (min-width: 1000px){
     body{
         background-color: rgb(255, 127, 225);
-        display: flex;
     }
 }
