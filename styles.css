@@ -79,11 +79,5 @@ footer{
 @media screen and (min-width: 1000px){
     body{
         background-color: rgb(255, 127, 225);
-        columns: 3;
     }
-
-    main img{
-        flex: 1;
-    }
-
 }
