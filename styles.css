@@ -9,7 +9,7 @@ body{
 }
 
 .header-container{
-    display: flex;
+    display: block;
     align-items: center;
     gap: 1rem;
     background-color: #120323;
@@ -85,4 +85,6 @@ footer{
     body{
         background-color: rgb(255, 127, 225);
     }
+
+
 }
