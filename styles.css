@@ -8,7 +8,6 @@ body{
 
 .header-container{
     display: flex;
-    columns: 1;
     align-items: center;
     gap: 1rem;
     background-color: #120323;
