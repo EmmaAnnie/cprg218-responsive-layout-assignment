@@ -33,4 +33,7 @@ aside{
 
 footer{
     background-color: #d9043d;
+    color: white;
+    align-items: center;
+    padding: 1rem;
 }
