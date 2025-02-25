@@ -94,7 +94,5 @@ footer{
 
     .container{
         display: flex;
-        flex: 3;
-        flex-direction: row-reverse;
     }
 }
