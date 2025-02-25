@@ -48,4 +48,31 @@ footer{
     body{
         background-color: aqua;
     }
+
+    header{
+        display: flex;
+    }
+
+    figure{
+        display: flex;
+    }
+
+    figcaption{
+        padding: 1rem;
+    }
+
+    main img{
+        max-width: 300px;
+    }
+
+    aside{
+        width: 100%;
+    }
+
+}
+
+@media screen and (min-width: 1000px){
+    body{
+        background-color: rgb(255, 127, 225);
+    }
 }
