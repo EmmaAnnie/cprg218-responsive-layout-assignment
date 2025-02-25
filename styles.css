@@ -95,7 +95,4 @@ footer{
         display: flex;
     }
 
-    main{
-        flex: 0.5;
-    }
 }
