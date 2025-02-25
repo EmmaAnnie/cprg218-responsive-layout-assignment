@@ -25,3 +25,8 @@ main img{
     width: 100%;
     border: solid 5px #d9043d;
 }
+
+aside{
+    background-color: #97bf04;
+    padding: 1rem;
+}
