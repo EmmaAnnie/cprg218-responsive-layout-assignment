@@ -6,8 +6,9 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-header.header-container{
+.header-container{
     display: flex;
+    columns: 1;
     align-items: center;
     gap: 1rem;
     background-color: #120323;
@@ -20,8 +21,12 @@ header img{
 }
 
 header h1{
-    display: flex;
     text-align: center;
+}
+
+.container{
+    display: flex;
+    columns: 1;
 }
 
 main img{
@@ -74,5 +79,7 @@ footer{
 @media screen and (min-width: 1000px){
     body{
         background-color: rgb(255, 127, 225);
+        columns: 3;
     }
+
 }
