@@ -57,9 +57,7 @@ footer{
 /*Medium Devices*/
 
 @media screen and (min-width: 769px){
-    body{
-        background-color: aqua;
-    }
+    
 
     .header-container{
         display: flex;
@@ -85,12 +83,10 @@ footer{
 /*Large Devices*/
 
 @media screen and (min-width: 1000px){
-    body{
-        background-color: rgb(255, 127, 225);
-    }
 
-    .container{
+    #container{
         display: flex;
+        flex: 3;
+    }
     }
 
-}
