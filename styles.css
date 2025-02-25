@@ -93,4 +93,8 @@ footer{
         display: flex;
     }
 
+    figure{
+        display: flex;
+    }
+
 }
