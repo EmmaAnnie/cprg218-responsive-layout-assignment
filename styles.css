@@ -92,5 +92,7 @@ footer{
         background-color: rgb(255, 127, 225);
     }
 
-
+    .container{
+        display: flex;
+    }
 }
