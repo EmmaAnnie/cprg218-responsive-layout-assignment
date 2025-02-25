@@ -82,4 +82,8 @@ footer{
         columns: 3;
     }
 
+    main img{
+        flex: 1;
+    }
+
 }
